@@ -1,4 +1,4 @@
-<img align="center" alt="banner" width="5000" height="300" src="https://github.com/upendra8400/upendra8400/blob/main/github.jpg" ><br/>
+<img align="center" color="white" alt="banner" width="5000" height="300" src="https://github.com/upendra8400/upendra8400/blob/main/github.jpg" ><br/>
 <h1 align="center">Hi 👋, I'm Upendra Yadav</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
